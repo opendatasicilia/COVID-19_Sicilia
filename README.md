@@ -1,6 +1,7 @@
 - [Perché questo spazio](#perché-questo-spazio)
   - [Scopo](#scopo)
   - [Dati](#dati)
+    - [Se usi questi dati](#se-usi-questi-dati)
   - [Schema dati](#schema-dati)
   - [Controlli effettuati sui dati](#controlli-effettuati-sui-dati)
   - [Lettera aperta](#lettera-aperta)
@@ -32,6 +33,10 @@ I dati al momento sono accessibili in formato CSV (*encoding* `UTF-8` e `,` come
 
 Si possono visualizzare anche tramite questo foglio elettronico, che per noi vale soltanto come risorsa di lavoro<br>
 <https://docs.google.com/spreadsheets/d/1wc9t8X7wRqmWfGCBwREi0b9DpbgpCPpmHpqoPTVyPXI/edit?usp=sharing>
+
+### Se usi questi dati
+
+Cita per favore OpenDataSicilia e questo URL <https://github.com/opendatasicilia/COVID-19_Sicilia>. I dati sono distribuiti con **licenza** [Creative Commons Attribuzione 4.0 Internazionale](http://creativecommons.org/licenses/by/4.0/) .
 
 ## Schema dati
 
