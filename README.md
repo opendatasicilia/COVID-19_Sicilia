@@ -29,7 +29,7 @@ isolamento_domiciliare = totale_positivi - totale_ospedalizzati
 I dati al momento sono accessibili in formato CSV (*encoding* `UTF-8` e `,` come separatore), con un file di insieme che contiene tutti i dati:<br>
 <https://docs.google.com/spreadsheets/d/e/2PACX-1vRsbOOrQCv72t6fH4ktl7VtafxvU1RECTqSBpC3wc91C0hLxFLCFRNZc7os5Pbcmvq-Qh4B3aIO50L8/pub?gid=2065250495&single=true&output=csv>
 
-Si possono visualizzare anche tramite questo foglio elettronico<br>
+Si possono visualizzare anche tramite questo foglio elettronico, che per noi vale soltanto come risorsa di lavoro<br>
 <https://docs.google.com/spreadsheets/d/1wc9t8X7wRqmWfGCBwREi0b9DpbgpCPpmHpqoPTVyPXI/edit?usp=sharing>
 
 ## Schema dati
@@ -62,4 +62,4 @@ La nostra comunità (**[Open Data Sicilia](http://opendatasicilia.it/)**), consa
 
 ## Ringraziamenti
 
-Questo lavoro non ci sarebeb stato senza il forte stimolo inziale e il tempo dedicato di [Nino Galante](https://twitter.com/picomiles) e [Totò Fiandaca](https://twitter.com/totofiandaca), a cui va il nostro ringraziamento.
+Questo lavoro non ci sarebbe stato senza il forte stimolo inziale e il tempo dedicato di [Nino Galante](https://twitter.com/picomiles) e [Totò Fiandaca](https://twitter.com/totofiandaca), a cui va il nostro ringraziamento.
