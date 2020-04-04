@@ -19,7 +19,7 @@ Il 23 marzo 2020 abbiamo scritto una [**lettera aperta**](#lettera-aperta) (e in
 Questo dataset è quindi ***il frutto della raccolta dei dati pubblicati dalla Regione Siciliana*** e ha lo scopo di consentirne la loro **analisi** per **ciascuna provincia** siciliana andando a colmare un’importante lacuna.<br>
 I dati dettagliati per provincia pubblicati dalla Regione Siciliana non coprono tutte le informazioni: alcuni valori vengono forniti come dato regionale complessivo. È il caso, ad esempio, del numero di pazienti ricoverati in terapia intensiva (campo `terapia_intensiva`) e del numero dei “tamponi” effettuati.
 
-Per quanto riguarda il numero dei pazienti in isolamento domiciliare (campo `isolamento_domiciliare`) sebbene la Regione Siciliana lo fornisca come totale regionale è possibile ricavarne il valore dettagliato per provincia sottraendo il valore dei ricoverati (campo `totale_ospedalizzati`) dal valore del `totale positivi` (precedentemente `totale_attualmente_positivi`”):
+Per quanto riguarda il numero dei pazienti in isolamento domiciliare (campo `isolamento_domiciliare`) sebbene la Regione Siciliana lo fornisca come totale regionale è possibile ricavarne il valore dettagliato per provincia sottraendo il valore dei ricoverati (campo `totale_ospedalizzati`) dal valore del `totale positivi` (precedentemente `totale_attualmente_positivi`):
 ```
 isolamento_domiciliare = totale_positivi - totale_ospedalizzati
 ```
@@ -62,4 +62,4 @@ La nostra comunità (**[Open Data Sicilia](http://opendatasicilia.it/)**), consa
 
 ## Ringraziamenti
 
-Questo lavoro non ci sarebbe stato senza il forte stimolo inziale e il tempo dedicato di [Nino Galante](https://twitter.com/picomiles) e [Totò Fiandaca](https://twitter.com/totofiandaca), a cui va il nostro ringraziamento.
+Questo lavoro non ci sarebbe stato senza il forte stimolo inziale e il tempo dedicato di [Nino Galante](https://twitter.com/picomiles) e [Totò Fiandaca](https://twitter.com/totofiandaca), il supporto e il coordinamento di [Andrea Borruso](https://twitter.com/aborruso); a loro va il nostro ringraziamento.
