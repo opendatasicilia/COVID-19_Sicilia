@@ -7,3 +7,4 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 - prima pubblicazione del repo
 - pubblicazione dei dati complessivi come CSV da URL google drive
 - condivisione in lettura del foglio che contiene i dati
+- aggiunto file `risorse/pop_prov_20200101.csv` con dati sulla popolazione per provincia. Fonte ISTAT
