@@ -11,7 +11,7 @@
 L’esigenza di avere un dataset in cui vengano registrati i valori relativi all’epidemia **COVID-19** in **Sicilia** dettagliato per province nasce dalla **mancanza** di un tale **dataset** nel repo del [Dipartimento della Protezione Civile](https://github.com/pcm-dpc/COVID-19), dove i dati disaggregati **per provincia** riguardano **soltanto** il campo “**totale_casi**”, e dalla mancanza di disponibilità di tali dati da parte della Regione Siciliana.<br>
 Per essere più precisi, **la Regione Siciliana** pubblica quotidianamente (in prosa e per immagini) un comunicato in cui vengono riportati alcuni valori che riguardano l’epidemia COVID-19 in Sicilia, avvisando che sono i valori comunicati al Dipartimento di Protezione Civile ma **non rende appunto disponibile un dataset** che elenchi l’insieme di questi dati comunicati quotidianamente.
 
-Il 23 marzo 2020 abbiamo scritto una **lettera aperta** (e inviato una richiesta via email) alla **Regione Siciliana**, per chiedere che questi dati fossero pubblicati anche in modalità ***machine readable***, anche come tabelle. Ad oggi **nessuna risposta**.
+Il 23 marzo 2020 abbiamo scritto una [**lettera aperta**](#lettera-aperta) (e inviato una richiesta via email) alla **Regione Siciliana**, per chiedere che questi dati fossero pubblicati anche in modalità ***machine readable***, anche come tabelle. Ad oggi **nessuna risposta**.
 
 ## Scopo
 
