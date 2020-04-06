@@ -23,6 +23,8 @@ Codice di embed
 </script>
 ```
 
+[`torna su`](#grafici-di-base-covid-19-per-la-sicilia)
+
 ## Riepilogo regionale 2
 
 <iframe title="COVID19 Sicilia: andamento regionale" aria-label="Interactive line chart" id="datawrapper-chart-e6xdK" src="//datawrapper.dwcdn.net/e6xdK" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
@@ -34,6 +36,8 @@ Codice di embed
 <iframe title="COVID19 Sicilia: andamento regionale" aria-label="Interactive line chart" id="datawrapper-chart-e6xdK" src="//datawrapper.dwcdn.net/e6xdK" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 ```
+
+[`torna su`](#grafici-di-base-covid-19-per-la-sicilia)
 
 ## Riepilogo provinciale 1
 
@@ -48,16 +52,22 @@ Codice di embed
 </script>
 ```
 
+[`torna su`](#grafici-di-base-covid-19-per-la-sicilia)
+
 ## Confermati, deceduti e ospedalizzati per provincia
 
 <iframe title="COVID&ndash;19 Sicilia: confermati, deceduti e ospedalizzati per provincia" aria-label="Split Bars" id="datawrapper-chart-KS9iv" src="//datawrapper.dwcdn.net/KS9iv/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="340"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
+
+<br>
 Codice di embed
 
 ```html
 <iframe title="COVID&ndash;19 Sicilia: confermati, deceduti e ospedalizzati per provincia" aria-label="Split Bars" id="datawrapper-chart-KS9iv" src="//datawrapper.dwcdn.net/KS9iv/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="340"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 ```
+
+[`torna su`](#grafici-di-base-covid-19-per-la-sicilia)
 
 ## Variazione nella velocità di raddoppio dei casi
 
@@ -70,7 +80,12 @@ Nota bene: purtroppo il dato sul numero dei contagi non è un dato certo, perch�
 <iframe title="Variazione nella velocit&agrave; di raddoppio dei casi" aria-label="Table" id="datawrapper-chart-ln6mZ" src="//datawrapper.dwcdn.net/ln6mZ" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="560"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
+<br>
+Codice di embed
+
 ```html
 <iframe title="Variazione nella velocit&agrave; di raddoppio dei casi" aria-label="Table" id="datawrapper-chart-ln6mZ" src="//datawrapper.dwcdn.net/ln6mZ" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="560"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 ```
+
+[`torna su`](#grafici-di-base-covid-19-per-la-sicilia)
