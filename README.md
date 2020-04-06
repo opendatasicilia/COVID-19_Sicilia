@@ -2,6 +2,7 @@
   - [Riepilogo regionale](#riepilogo-regionale)
   - [Riepilogo provinciale 1](#riepilogo-provinciale-1)
   - [Confermati, deceduti e ospedalizzati per provincia](#confermati-deceduti-e-ospedalizzati-per-provincia)
+
 # Grafici di base
 
 A seguire alcuni grafici di base, che potete inglobare in qualsiasi pagina web. L'aggiornamento previsto è quotidiano e automatico.
