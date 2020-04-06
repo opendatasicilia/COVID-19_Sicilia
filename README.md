@@ -36,14 +36,14 @@ Codice di embed
 
 ## Riepilogo provinciale 1
 
-<iframe title="COVID-19 Sicilia: riepilogo regionale" aria-label="Table" id="datawrapper-chart-oR1rc" src="//datawrapper.dwcdn.net/UMAlR" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="376"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+<iframe title="COVID-19 Sicilia: riepilogo provinciale (latest)" aria-label="Column Chart" id="datawrapper-chart-UMAlR" src="//datawrapper.dwcdn.net/UMAlR" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="343"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
 <br>
 Codice di embed
 
 ```html
-<iframe title="COVID-19 Sicilia: riepilogo regionale" aria-label="Table" id="datawrapper-chart-oR1rc" src="//datawrapper.dwcdn.net/UMAlR" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="376"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+<iframe title="COVID-19 Sicilia: riepilogo provinciale (latest)" aria-label="Column Chart" id="datawrapper-chart-UMAlR" src="//datawrapper.dwcdn.net/UMAlR" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="343"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 ```
 
