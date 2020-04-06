@@ -12,3 +12,7 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 ## 2020-04-04
 
 - aggiunta nota su dataset data.world
+
+## 2020-04-06
+
+- aggiunta pagina grafici di base <https://opendatasicilia.github.io/COVID-19_Sicilia>
