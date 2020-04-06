@@ -62,7 +62,8 @@ Codice di embed
 ## Variazione nella velocità di raddoppio dei casi
 
 La **velocità di raddoppio** indica il tempo (qui in giorni) che ci vorrebbe a raddoppiare il numero dei contegiati.
-È stata misurata in due intervalli differenti - gli ultimi 5 giorni a partire da ieri e i 5 giorni precedenti - e i valori sono stati confrontati per misurare se aumenta (quindi il contagio avviene più lentamente) o diminuisce (contagio più rapido).
+È stata misurata in due intervalli differenti - gli ultimi 5 giorni a partire da ieri e i 5 giorni precedenti - e i valori sono stati confrontati per misurare se aumenta (quindi il contagio avviene più lentamente) o diminuisce (contagio più rapido).<br>
+È un'elaborazione totalmente ispirata a quella descritta in questo [blog post](https://blog.datawrapper.de/weekly-chart-coronavirus-doublingtimes/).
 
 Nota bene: purtroppo il dato sul numero dei contagi non è un dato certo, perché ci potrebbero essere diversi contagiati non ancora noti.
 
