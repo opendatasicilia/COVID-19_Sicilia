@@ -1,11 +1,13 @@
-- [Grafici di base](#grafici-di-base)
+- [Grafici di base COVID-19, per la Sicilia](#grafici-di-base-covid-19-per-la-sicilia)
   - [Riepilogo regionale](#riepilogo-regionale)
   - [Riepilogo provinciale 1](#riepilogo-provinciale-1)
   - [Confermati, deceduti e ospedalizzati per provincia](#confermati-deceduti-e-ospedalizzati-per-provincia)
 
-# Grafici di base
+# Grafici di base COVID-19, per la Sicilia
 
-A seguire alcuni grafici di base, che potete inglobare in qualsiasi pagina web. L'aggiornamento previsto è quotidiano e automatico.
+A seguire alcuni grafici di base, che potete inglobare in qualsiasi pagina web. L'**aggiornamento** previsto è **quotidiano** e **automatico**.
+
+Questa è una pagina del [**progetto COVID-19_Sicilia**](https://github.com/opendatasicilia/COVID-19_Sicilia), creato e gestito da **OpenDataSicilia**.
 
 ## Riepilogo regionale
 
