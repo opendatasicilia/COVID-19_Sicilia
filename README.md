@@ -1,11 +1,11 @@
-- [Grafici di base COVID-19, per la Sicilia](#grafici-di-base-covid-19-per-la-sicilia)
+- [COVID-19: visualizzazioni di base, per la Sicilia](#covid-19-visualizzazioni-di-base-per-la-sicilia)
   - [Riepilogo regionale 1](#riepilogo-regionale-1)
   - [Riepilogo regionale 2](#riepilogo-regionale-2)
   - [Riepilogo provinciale 1](#riepilogo-provinciale-1)
   - [Confermati, deceduti e ospedalizzati per provincia](#confermati-deceduti-e-ospedalizzati-per-provincia)
   - [Variazione nella velocità di raddoppio dei casi](#variazione-nella-velocità-di-raddoppio-dei-casi)
 
-# Grafici di base COVID-19, per la Sicilia
+# COVID-19: visualizzazioni di base, per la Sicilia
 
 A seguire alcuni grafici di base, che potete inglobare in qualsiasi pagina web. L'**aggiornamento** previsto è **quotidiano** e **automatico**.
 
