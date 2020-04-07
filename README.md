@@ -11,6 +11,8 @@ A seguire alcuni grafici di base, che potete inglobare in qualsiasi pagina web. 
 
 Questa è una pagina del [**progetto COVID-19_Sicilia**](https://github.com/opendatasicilia/COVID-19_Sicilia), creato e gestito da **OpenDataSicilia**.
 
+Le elaborazioni sottostanti sono generate a partire da [questo file CSV](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsbOOrQCv72t6fH4ktl7VtafxvU1RECTqSBpC3wc91C0hLxFLCFRNZc7os5Pbcmvq-Qh4B3aIO50L8/pub?gid=2065250495&single=true&output=csv) (*encoding* `UTF-8` e `,` come separatore).
+
 ## Riepilogo regionale 1
 
 <iframe title="COVID-19 Sicilia: riepilogo regionale" aria-label="Table" id="datawrapper-chart-oR1rc" src="//datawrapper.dwcdn.net/oR1rc" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="245"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
