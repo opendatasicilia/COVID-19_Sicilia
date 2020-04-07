@@ -3,6 +3,7 @@
   - [Riepilogo regionale 2](#riepilogo-regionale-2)
   - [Riepilogo provinciale 1](#riepilogo-provinciale-1)
   - [Confermati, deceduti e ospedalizzati per provincia](#confermati-deceduti-e-ospedalizzati-per-provincia)
+  - [Variazione casi positivi per provincia](#variazione-casi-positivi-per-provincia)
   - [Variazione nella velocità di raddoppio dei casi](#variazione-nella-velocità-di-raddoppio-dei-casi)
 
 # COVID-19: visualizzazioni di base, per la Sicilia
@@ -66,6 +67,21 @@ Codice di embed
 
 ```html
 <iframe title="COVID&ndash;19 Sicilia: confermati, deceduti e ospedalizzati per provincia" aria-label="Split Bars" id="datawrapper-chart-KS9iv" src="//datawrapper.dwcdn.net/KS9iv/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="340"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+```
+
+[`torna su`](#grafici-di-base-covid-19-per-la-sicilia)
+
+## Variazione casi positivi per provincia
+
+<iframe title="COVID&ndash;19 Sicilia: variazione positivi per provincia" aria-label="Interactive line chart" id="datawrapper-chart-ifkg2" src="//datawrapper.dwcdn.net/ifkg2" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+
+<br>
+Codice di embed
+
+```html
+<iframe title="COVID&ndash;19 Sicilia: variazione positivi per provincia" aria-label="Interactive line chart" id="datawrapper-chart-ifkg2" src="//datawrapper.dwcdn.net/ifkg2" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 ```
 
