@@ -117,8 +117,9 @@ I valori calcolati, poi, vengono confrontati per capire se il tempo di raddoppio
 Questa elaborazione è totalmente ispirata a quella descritta in questo [blog post](https://blog.datawrapper.de/weekly-chart-coronavirus-doublingtimes/).
 In particolare, il tempo di raddoppio viene calcolato seguendo questa formula:
 
-**tempo di raddoppio = 5 * ln(2) / ln(q<sub>2</sub> / q<sub>1</sub>)<br>**
-dove 5 è il numero di giorni del nostro intervallo di riferimento, mentre q<sub>2</sub> e q<sub>1</sub> sono i numeri di contagiati al tempo t<sub>2</sub> (ieri / 6 giorni fa) e t<sub>1</sub> (6 giorni fa / 11 giorni fa), rispettivamente.
+`tempo di raddoppio = 5 * ln(2) / ln(q<sub>2</sub> / q<sub>1</sub>)`
+
+Dove 5 è il numero di giorni del nostro intervallo di riferimento, mentre q<sub>2</sub> e q<sub>1</sub> sono i numeri di contagiati al tempo t<sub>2</sub> (ieri / 6 giorni fa) e t<sub>1</sub> (6 giorni fa / 11 giorni fa), rispettivamente.
 
 Nota bene: purtroppo il dato sul numero dei contagi non è un dato certo, perché ci potrebbero essere diversi contagiati non ancora noti.
 
