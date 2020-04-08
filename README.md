@@ -19,7 +19,8 @@ Le elaborazioni sottostanti sono generate a partire da [questo file CSV](https:/
 <iframe title="COVID-19 Sicilia: riepilogo regionale" aria-label="Table" id="datawrapper-chart-oR1rc" src="//datawrapper.dwcdn.net/oR1rc" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="245"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 <br>
-Codice di embed
+
+👉 Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
 
 ```html
 <iframe title="COVID-19 Sicilia: riepilogo regionale" aria-label="Table" id="datawrapper-chart-oR1rc" src="//datawrapper.dwcdn.net/oR1rc" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="245"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
@@ -33,7 +34,8 @@ Codice di embed
 <iframe title="COVID19 Sicilia: andamento regionale" aria-label="Interactive line chart" id="datawrapper-chart-e6xdK" src="//datawrapper.dwcdn.net/e6xdK" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 <br>
-Codice di embed
+
+👉 Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
 
 ```html
 <iframe title="COVID19 Sicilia: andamento regionale" aria-label="Interactive line chart" id="datawrapper-chart-e6xdK" src="//datawrapper.dwcdn.net/e6xdK" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
@@ -48,7 +50,8 @@ Codice di embed
 </script>
 
 <br>
-Codice di embed
+
+👉 Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
 
 ```html
 <iframe title="COVID-19 Sicilia: riepilogo provinciale (latest)" aria-label="Column Chart" id="datawrapper-chart-UMAlR" src="//datawrapper.dwcdn.net/UMAlR" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="343"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
@@ -63,7 +66,8 @@ Codice di embed
 </script>
 
 <br>
-Codice di embed
+
+👉 Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
 
 ```html
 <iframe title="COVID&ndash;19 Sicilia: confermati, deceduti e ospedalizzati per provincia" aria-label="Split Bars" id="datawrapper-chart-KS9iv" src="//datawrapper.dwcdn.net/KS9iv/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="340"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
@@ -78,7 +82,8 @@ Codice di embed
 </script>
 
 <br>
-Codice di embed
+
+👉 Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
 
 ```html
 <iframe title="COVID&ndash;19 Sicilia: variazione positivi per provincia" aria-label="Interactive line chart" id="datawrapper-chart-ifkg2" src="//datawrapper.dwcdn.net/ifkg2" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
@@ -99,7 +104,8 @@ Nota bene: purtroppo il dato sul numero dei contagi non è un dato certo, perch�
 </script>
 
 <br>
-Codice di embed
+
+👉 Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
 
 ```html
 <iframe title="Variazione nella velocit&agrave; di raddoppio dei casi" aria-label="Table" id="datawrapper-chart-ln6mZ" src="//datawrapper.dwcdn.net/ln6mZ" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="560"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
