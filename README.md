@@ -1,6 +1,7 @@
 - [COVID-19: visualizzazioni di base, per la Sicilia](#covid-19-visualizzazioni-di-base-per-la-sicilia)
   - [Riepilogo regionale 1](#riepilogo-regionale-1)
   - [Riepilogo regionale 2](#riepilogo-regionale-2)
+  - [Riepilogo regionale 3 - confermati totali e giornalieri](#riepilogo-regionale-3---confermati-totali-e-giornalieri)
   - [Riepilogo provinciale 1](#riepilogo-provinciale-1)
   - [Confermati, ospedalizzati e deceduti per provincia](#confermati-ospedalizzati-e-deceduti-per-provincia)
   - [Variazione casi positivi per provincia](#variazione-casi-positivi-per-provincia)
@@ -43,6 +44,20 @@ Le elaborazioni sottostanti sono generate a partire da [questo file CSV](https:/
 ```
 
 [`torna su`](#covid-19-visualizzazioni-di-base-per-la-sicilia)
+
+## Riepilogo regionale 3 - confermati totali e giornalieri
+
+<iframe title="COVID-19 Sicilia, confermati totali e giornalieri" aria-label="Interactive line chart" id="datawrapper-chart-Uwn7H" src="//datawrapper.dwcdn.net/Uwn7H" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+
+<br>
+
+👉 Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
+
+```html
+<iframe title="COVID-19 Sicilia, confermati totali e giornalieri" aria-label="Interactive line chart" id="datawrapper-chart-Uwn7H" src="//datawrapper.dwcdn.net/Uwn7H" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+```
 
 ## Riepilogo provinciale 1
 
