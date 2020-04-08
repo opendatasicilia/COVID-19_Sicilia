@@ -17,3 +17,7 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - aggiunta pagina grafici di base <https://opendatasicilia.github.io/COVID-19_Sicilia>
 - aggiunta tabella con variazione velocità di raddoppio per provincia
+
+## 2020-04-07
+
+- aggiunto grafico variazione casi per provincia
