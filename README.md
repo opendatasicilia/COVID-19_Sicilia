@@ -26,7 +26,7 @@ Codice di embed
 </script>
 ```
 
-[`torna su`](#grafici-di-base-covid-19-per-la-sicilia)
+[`torna su`](#covid-19-visualizzazioni-di-base-per-la-sicilia)
 
 ## Riepilogo regionale 2
 
@@ -40,7 +40,7 @@ Codice di embed
 </script>
 ```
 
-[`torna su`](#grafici-di-base-covid-19-per-la-sicilia)
+[`torna su`](#covid-19-visualizzazioni-di-base-per-la-sicilia)
 
 ## Riepilogo provinciale 1
 
@@ -55,7 +55,7 @@ Codice di embed
 </script>
 ```
 
-[`torna su`](#grafici-di-base-covid-19-per-la-sicilia)
+[`torna su`](#covid-19-visualizzazioni-di-base-per-la-sicilia)
 
 ## Confermati, deceduti e ospedalizzati per provincia
 
@@ -70,7 +70,7 @@ Codice di embed
 </script>
 ```
 
-[`torna su`](#grafici-di-base-covid-19-per-la-sicilia)
+[`torna su`](#covid-19-visualizzazioni-di-base-per-la-sicilia)
 
 ## Variazione casi positivi per provincia
 
@@ -85,7 +85,7 @@ Codice di embed
 </script>
 ```
 
-[`torna su`](#grafici-di-base-covid-19-per-la-sicilia)
+[`torna su`](#covid-19-visualizzazioni-di-base-per-la-sicilia)
 
 ## Variazione nella velocità di raddoppio dei casi
 
@@ -106,4 +106,4 @@ Codice di embed
 </script>
 ```
 
-[`torna su`](#grafici-di-base-covid-19-per-la-sicilia)
+[`torna su`](#covid-19-visualizzazioni-di-base-per-la-sicilia)
