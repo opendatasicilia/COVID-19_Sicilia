@@ -138,4 +138,4 @@ Nota bene: purtroppo il dato sul numero dei contagi non è un dato certo, perch�
 
 # Nota
 
-Questa pagina è stata ispirata dal bel lavoro e dalla [bella idea](https://blog.datawrapper.de/coronaviruscharts/) di **Datawrapper** di predisporre dei "buoni" grafici a tema COVID-19, da rendere facilmente disponibili al riuso di chiunque.
+Questa pagina è stata ispirata dal bel lavoro e dalla [bella idea](https://blog.datawrapper.de/coronaviruscharts/) di **Datawrapper** di predisporre delle "buone" visualizzazioni a tema COVID-19, da rendere disponibili a chiunque per essere utilizzate in qualsiasi sito web.
