@@ -2,9 +2,9 @@
   - [Riepilogo regionale 1](#riepilogo-regionale-1)
   - [Riepilogo regionale 2](#riepilogo-regionale-2)
   - [Riepilogo provinciale 1](#riepilogo-provinciale-1)
-  - [Confermati, deceduti e ospedalizzati per provincia](#confermati-deceduti-e-ospedalizzati-per-provincia)
+  - [Confermati, ospedalizzati e deceduti per provincia](#confermati-ospedalizzati-e-deceduti-per-provincia)
   - [Variazione casi positivi per provincia](#variazione-casi-positivi-per-provincia)
-  - [Variazione nella velocità di raddoppio dei casi](#variazione-nella-velocità-di-raddoppio-dei-casi)
+  - [Variazione nel tempo di raddoppio dei casi](#variazione-nel-tempo-di-raddoppio-dei-casi)
 
 # COVID-19: visualizzazioni di base, per la Sicilia
 
@@ -94,12 +94,12 @@ Le elaborazioni sottostanti sono generate a partire da [questo file CSV](https:/
 
 ## Variazione nel tempo di raddoppio dei casi
 
-Il **tempo di raddoppio** indica il tempo necessario per raddoppiare il numero dei contagiati. 
+Il **tempo di raddoppio** indica il tempo necessario per raddoppiare il numero dei contagiati.
 Questo tempo, in giorni, viene qui misurato usando due intervalli differenti - gli ultimi 5 giorni a partire da ieri e i 5 giorni precedenti.
 I valori calcolati, poi, vengono confrontati per capire se il tempo di raddoppio aumenta (in qual caso il contagio avviene più lentamente) o se diminuisce (in qual caso il contagio è più rapido).<br>
 
 Questa elaborazione è totalmente ispirata a quella descritta in questo [blog post](https://blog.datawrapper.de/weekly-chart-coronavirus-doublingtimes/).
-In particolare, il tempo di raddoppio viene calcolato seguendo questa formula: 
+In particolare, il tempo di raddoppio viene calcolato seguendo questa formula:
 
 **tempo di raddoppio = 5 * ln(2) / ln(q<sub>2</sub> / q<sub>1</sub>)<br>**
 dove 5 è il numero di giorni del nostro intervallo di riferimento, mentre q<sub>2</sub> e q<sub>1</sub> sono i numeri di contagiati al tempo t<sub>2</sub> (ieri / 6 giorni fa) e t<sub>1</sub> (6 giorni fa / 11 giorni fa), rispettivamente.
