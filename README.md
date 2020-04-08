@@ -6,6 +6,7 @@
   - [Confermati, ospedalizzati e deceduti per provincia](#confermati-ospedalizzati-e-deceduti-per-provincia)
   - [Variazione casi positivi per provincia](#variazione-casi-positivi-per-provincia)
   - [Variazione nel tempo di raddoppio dei casi](#variazione-nel-tempo-di-raddoppio-dei-casi)
+- [Nota](#nota)
 
 # COVID-19: visualizzazioni di base, per la Sicilia
 
@@ -134,3 +135,7 @@ Nota bene: purtroppo il dato sul numero dei contagi non è un dato certo, perch�
 ```
 
 [`torna su`](#covid-19-visualizzazioni-di-base-per-la-sicilia)
+
+# Nota
+
+Questa pagina è stata ispirata dal bel lavoro e dalla [bella idea](https://blog.datawrapper.de/coronaviruscharts/) di **Datawrapper** di predisporre dei "buoni" grafici a tema COVID-19, da rendere facilmente disponibili al riuso di chiunque.
