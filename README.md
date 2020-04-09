@@ -1,3 +1,7 @@
+<div class="flash">
+  Flash message goes here.
+</div>
+
 - [COVID-19: visualizzazioni di base, per la Sicilia](#covid-19-visualizzazioni-di-base-per-la-sicilia)
   - [Riepilogo regionale 1](#riepilogo-regionale-1)
   - [Riepilogo regionale 2](#riepilogo-regionale-2)
