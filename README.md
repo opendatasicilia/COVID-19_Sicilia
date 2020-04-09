@@ -61,6 +61,76 @@ Abbiamo utilizzato lo stesso schema che il [Dipartimento della Protezione Civile
 La rilevazione dei dati presenti nel nostro dataset è stata oggetto di controlli di consistenza dei dati stessi e che per i primi giorni, sostanzialmente dal 24/02/2020 al 05/03/2020, data in cui la Regione Siciliana ha iniziato a pubblicare regolarmente i propri comunicati, è stato necessario effettuare ulteriori verifiche sulle notizie di stampa locali per integrare correttamente alcuni dati mancanti (quelli riguardanti guariti_dimessi e deceduti) e associarli alla relativa provincia.<br>
 Dai controlli effettuati sono stati rilevati alcuni casi (5 alla data del 03/04/2020) in cui si sospetta dell’accuratezza dei dati esposti.
 
+## Semantic Web
+Usando il modello [RDF Data Cube Vocabulary](https://www.w3.org/TR/vocab-data-cube/) sono state create le dimensioni, le misure e gli attributi necessari per descrivere in linguaggio semantico il dataset del monitoraggio sanitario COVID-19, motivo per cui tali dati sono fruibili anche tramite [SPARQL endpoint](http://45.62.242.205:8890/sparql). I dati sono aggiornati quotidianamente.
+
+* **URI**: Ciascuna riga viene identificata da una apposita `URI` secondo il seguente schema:
+
+`http://www.opendatasicilia.it/dataset/covid19/sicilian-trend/observations/20200408/regions/19/provinces/088`
+
+#### Dimensioni
+
+Nome   | Property
+------------ | -------------
+Data | http://purl.org/linked-data/sdmx/2009/dimension#refTime
+Area geografica | http://purl.org/linked-data/sdmx/2009/dimension#refArea
+
+#### Misurazioni
+Nome   | Property
+------------ | -------------
+Totale ospedalizzati| http://www.protezionecivile.gov.it/ns/totalHospitalized
+Isolamento domiciliare | http://www.protezionecivile.gov.it/ns/homeIsolation
+Totale positivi | http://www.protezionecivile.gov.it/ns/totalPositive
+Variazione totale positivi | http://www.protezionecivile.gov.it/ns/totalPositiveVariation
+Nuovi positivi| http://www.protezionecivile.gov.it/ns/newPositive
+Dimessi guariti | http://www.protezionecivile.gov.it/ns/healed
+Deceduti | http://www.protezionecivile.gov.it/ns/deads
+Totale casi | http://www.protezionecivile.gov.it/ns/totalCases
+
+L'istanza relativa alla dimensione dell'area geografica (province) è stata presa dal progetto [Ontopia](https://github.com/italia/daf-ontologie-vocabolari-controllati), nella 
+fattispecie dal vocabolario controllato della [classificazione territoriale](https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/VocabolariControllati/territorial-classifications):
+
+`<https://w3id.org/italia/controlled-vocabulary/territorial-classifications/provinces/083>`
+
+
+#### Esempio SPARQL
+
+* **Quali sono i dati sanitari della provincia di Messina  del 25 marzo 2020?**
+ 
+ *Per motivi di performance sono stati caricati nello store anche i vocabolari controllati di  [Ontopia](https://github.com/italia/daf-ontologie-vocabolari-controllati).*
+
+[Demo](http://45.62.242.205:8890/sparql?default-graph-uri=&query=PREFIX+qb%3A+%3Chttp%3A%2F%2Fpurl.org%2Flinked-data%2Fcube%23%3E+%0D%0APREFIX+sdmx-dimension%3A+%3Chttp%3A%2F%2Fpurl.org%2Flinked-data%2Fsdmx%2F2009%2Fdimension%23%3E+%0D%0APREFIX+dpc%3A+%3Chttp%3A%2F%2Fwww.protezionecivile.gov.it%2Fns%2F%3E%0D%0Aprefix+l0%3A+%3Chttps%3A%2F%2Fw3id.org%2Fitalia%2Fonto%2Fl0%2F%3E+%0D%0A%0D%0ASELECT+%3FareaName+%3Fdate+%0D%0A+++++++%3FtotalPositive+%3FhomeIsolation+%0D%0A+++++++%3FnewPositive+%3FtotalPositiveVariation+%0D%0A+++++++%3Fhealed+%3Fdeads+%3FtotalCases+%0D%0AWHERE%0D%0A%7B%0D%0A++++%3Fobs+a+qb%3AObservation%3B%0D%0A+++++++++qb%3Adataset+%3Chttp%3A%2F%2Fwww.opendatasicilia.it%2Fdataset%2Fcovid19%2Fsicilian-trend%3E%3B%0D%0A+++++++++sdmx-dimension%3ArefTime+%3Fdate%3B%0D%0A+++++++++sdmx-dimension%3ArefArea+%3Farea%3B%0D%0A+++++++++dpc%3AhomeIsolation+%3FhomeIsolation+%3B%0D%0A+++++++++dpc%3AtotalPositive+%3FtotalPositive+%3B%0D%0A+++++++++dpc%3AnewPositive+%3FnewPositive+%3B%0D%0A+++++++++dpc%3AtotalCases+%3FtotalCases+%3B%0D%0A+++++++++dpc%3AtotalPositiveVariation+%3FtotalPositiveVariation+%3B%0D%0A+++++++++dpc%3Adeads+%3Fdeads+%3B%0D%0A+++++++++dpc%3Ahealed+%3Fhealed+.%0D%0A+++++++++%3Farea+l0%3Aname+%3FareaName.%0D%0A+++++++++FILTER+regex%28%3FareaName%2C%22%5EMessina%22%2C%22i%22%29.%0D%0A+++++++++FILTER%28%3Fdate+%3D+%222020-03-25%22%5E%5Exsd%3Adate%29.%0D%0A%7D&format=text%2Fhtml&timeout=0&debug=on)
+
+```sparql
+PREFIX qb: <http://purl.org/linked-data/cube#> 
+PREFIX sdmx-dimension: <http://purl.org/linked-data/sdmx/2009/dimension#> 
+PREFIX dpc: <http://www.protezionecivile.gov.it/ns/>
+prefix l0: <https://w3id.org/italia/onto/l0/> 
+
+SELECT ?areaName ?date 
+       ?totalPositive ?homeIsolation 
+       ?newPositive ?totalPositiveVariation 
+       ?healed ?deads ?totalCases 
+WHERE
+{
+    ?obs a qb:Observation;
+         qb:dataset <http://www.opendatasicilia.it/dataset/covid19/sicilian-trend>;
+         sdmx-dimension:refTime ?date;
+         sdmx-dimension:refArea ?area;
+         dpc:homeIsolation ?homeIsolation ;
+         dpc:totalPositive ?totalPositive ;
+         dpc:newPositive ?newPositive ;
+         dpc:totalCases ?totalCases ;
+         dpc:totalPositiveVariation ?totalPositiveVariation ;
+         dpc:deads ?deads ;
+         dpc:healed ?healed .
+         ?area l0:name ?areaName.
+         FILTER regex(?areaName,"^Messina","i").
+         FILTER(?date = "2020-03-25"^^xsd:date).
+}
+```
+
+
 ## Lettera aperta
 
 La nostra comunità (**[Open Data Sicilia](http://opendatasicilia.it/)**), consapevole dell’importanza di disporre in maniera organica, strutturata (***machine readable***) e **aperta** (dati resi disponibili con licenza aperta, open data) della maggior quantità e tipologia possibile di dati riguardanti l’epidemia COVID-19 in Sicilia, ha indirizzato alle autorità regionali una [**lettera aperta**](http://opendatasicilia.it/2020/03/23/lettera-aperta-alla-regione-siciliana-per-la-pubblicazione-in-formato-machine-readable-dei-dati-sulla-covid19/) con la quale chiede il rilascio degli stessi in tali modalità e la loro integrazione con ulteriori dati (ad esempio dati dettagliati per comuni, per sesso, per età, ecc.), che consentano una completa analisi del fenomeno in Sicilia, offrendo al contempo la propria disponibilità a supportare l’amministrazione nel rendere gli stessi disponibili alla più amplia platea di soggetti interessati (ricercatori, giornalisti, data scientist, semplici cittadini, ecc.).<br>
