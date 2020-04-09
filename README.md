@@ -137,9 +137,6 @@ Nota bene: purtroppo il dato sul numero dei contagi non è un dato certo, perch�
 
 [`torna su`](#covid-19-visualizzazioni-di-base-per-la-sicilia)
 
-
-<form target="_blank" action="https://app.datawrapper.de/chart/create" method="post"><input type="hidden" name="chart-template" value="ln6mZ"><input type="submit" value="✎ Crea la tua copia e modificala"></form>
-
 # Nota
 
 Questa pagina è stata ispirata dal bel lavoro e dalla [bella idea](https://blog.datawrapper.de/coronaviruscharts/) di **Datawrapper** di predisporre delle "buone" visualizzazioni a tema COVID-19, da rendere disponibili a chiunque per essere utilizzate in qualsiasi sito web.
