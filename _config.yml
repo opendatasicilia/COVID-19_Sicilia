@@ -5,4 +5,4 @@ relative_links:
   collections: true
 include:
   - README.md
-remote_theme: "BlackrockDigital/startbootstrap-clean-blog@5.0.8"
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
