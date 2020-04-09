@@ -1,4 +1,4 @@
-<div class="col-12  border p-2 bg-blue text-white" align="right">
+<div class="col-12  border p-2 bg-blue-light text-white" align="right">
     <a class="text-white" href="http://opendatasicilia.it/2020/03/23/lettera-aperta-alla-regione-siciliana-per-la-pubblicazione-in-formato-machine-readable-dei-dati-sulla-covid19/" target="_blank">Leggi la nostra <b>lettera aperta</b> alla Regione Siciliana</a>
 </div>
 
