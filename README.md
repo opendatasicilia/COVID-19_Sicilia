@@ -1,5 +1,10 @@
-<div class="col-12  border p-2 bg-blue-light" align="right">
-  Leggi la nostra<a class="" href="http://opendatasicilia.it/2020/03/23/lettera-aperta-alla-regione-siciliana-per-la-pubblicazione-in-formato-machine-readable-dei-dati-sulla-covid19/" target="_blank"> <b>lettera aperta</b></a> alla Regione Siciliana
+<div class="container-lg clearfix border p-2 bg-blue-light my-2">
+  <div class="col-md-6 float-left p-2 border0">
+    📧 <a href="mailto:info@opendatasicilia.it">Chiedi aiuto!</a>
+  </div>
+  <div class="col-md-6 float-left p-2 border0 text-right">
+    Leggi la nostra<a class="" href="http://opendatasicilia.it/2020/03/23/lettera-aperta-alla-regione-siciliana-per-la-pubblicazione-in-formato-machine-readable-dei-dati-sulla-covid19/" target="_blank"> <b>lettera aperta</b></a> alla Regione Siciliana
+  </div>
 </div>
 
 - [COVID-19: visualizzazioni di base, per la Sicilia](#covid-19-visualizzazioni-di-base-per-la-sicilia)
