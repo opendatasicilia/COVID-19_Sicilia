@@ -5,4 +5,4 @@ relative_links:
   collections: true
 include:
   - README.md
-remote_theme: "BlackrockDigital/startbootstrap-clean-blog-jekyll"
+remote_theme: "vvalchev/creative-theme-jekyll-new"
