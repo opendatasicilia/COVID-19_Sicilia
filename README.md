@@ -1,13 +1,21 @@
-<div class="container-lg clearfix border p-2 bg-blue-light my-2">
+<div class="container-lg clearfix border p-2 bg-blue-light my-">
   <div class="col-md-6 float-left p-2 border0">
     📧 <a href="mailto:info@opendatasicilia.it">Chiedi aiuto!</a>
   </div>
   <div class="col-md-6 float-left p-2 border0 text-right">
-    Leggi la nostra<a class="" href="http://opendatasicilia.it/2020/03/23/lettera-aperta-alla-regione-siciliana-per-la-pubblicazione-in-formato-machine-readable-dei-dati-sulla-covid19/" target="_blank"> <b>lettera aperta</b></a> alla Regione Siciliana
+    Leggi la nostra <a class="" href="http://opendatasicilia.it/2020/03/23/lettera-aperta-alla-regione-siciliana-per-la-pubblicazione-in-formato-machine-readable-dei-dati-sulla-covid19/" target="_blank"><b>lettera aperta</b></a> alla Regione Siciliana
   </div>
 </div>
 
-- [COVID-19: visualizzazioni di base, per la Sicilia](#covid-19-visualizzazioni-di-base-per-la-sicilia)
+<h1>COVID-19: visualizzazioni di base, per la Sicilia</h1>
+
+[**OpenDataSicilia**](https://groups.google.com/forum/#!categories/opendatasicilia) ha raccolto in questa pagina alcune **visualizzazioni** di base sulla **COVID-19** per la Sicilia, in modo che possano essere usate in qualsiasi altro sito, con un semplice <kbd>CTRL+C</kbd>, <kbd>CTRL+V</kbd> (un copia e incolla 😊).
+
+Sono generate a partire da [questo file CSV](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsbOOrQCv72t6fH4ktl7VtafxvU1RECTqSBpC3wc91C0hLxFLCFRNZc7os5Pbcmvq-Qh4B3aIO50L8/pub?gid=2065250495&single=true&output=csv) (*encoding* `UTF-8` e `,` come separatore), che deriva dal lavoro di trasformazione in tabella delle pubblicazioni in prosa della Regione Siciliana, realizzato per il progetto [**progetto COVID-19_Sicilia**](https://github.com/opendatasicilia/COVID-19_Sicilia).
+
+I dati sono fruibili anche tramite [**SPARQL** *endpoint*](https://github.com/opendatasicilia/COVID-19_Sicilia#semantic-web).
+
+- [Lista elaborazioni](#lista-elaborazioni)
   - [Riepilogo regionale 1](#riepilogo-regionale-1)
   - [Riepilogo regionale 2](#riepilogo-regionale-2)
   - [Riepilogo regionale 3 - confermati totali e giornalieri](#riepilogo-regionale-3---confermati-totali-e-giornalieri)
@@ -17,13 +25,8 @@
   - [Variazione nel tempo di raddoppio dei casi](#variazione-nel-tempo-di-raddoppio-dei-casi)
 - [Nota](#nota)
 
-# COVID-19: visualizzazioni di base, per la Sicilia
 
-A seguire alcuni grafici di base, che potete inglobare in qualsiasi pagina web. L'**aggiornamento** previsto è **quotidiano** e **automatico**.
-
-Questa è una pagina del [**progetto COVID-19_Sicilia**](https://github.com/opendatasicilia/COVID-19_Sicilia), creato e gestito da **OpenDataSicilia**.
-
-Le elaborazioni sottostanti sono generate a partire da [questo file CSV](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsbOOrQCv72t6fH4ktl7VtafxvU1RECTqSBpC3wc91C0hLxFLCFRNZc7os5Pbcmvq-Qh4B3aIO50L8/pub?gid=2065250495&single=true&output=csv) (*encoding* `UTF-8` e `,` come separatore).
+# Lista elaborazioni
 
 ## Riepilogo regionale 1
 
@@ -38,7 +41,7 @@ Le elaborazioni sottostanti sono generate a partire da [questo file CSV](https:/
 </script>
 ```
 
-[`torna su`](#covid-19-visualizzazioni-di-base-per-la-sicilia)
+[`torna su`](#lista-elaborazioni)
 
 ## Riepilogo regionale 2
 
@@ -53,7 +56,7 @@ Le elaborazioni sottostanti sono generate a partire da [questo file CSV](https:/
 </script>
 ```
 
-[`torna su`](#covid-19-visualizzazioni-di-base-per-la-sicilia)
+[`torna su`](#lista-elaborazioni)
 
 ## Riepilogo regionale 3 - confermati totali e giornalieri
 
@@ -83,7 +86,7 @@ Le elaborazioni sottostanti sono generate a partire da [questo file CSV](https:/
 </script>
 ```
 
-[`torna su`](#covid-19-visualizzazioni-di-base-per-la-sicilia)
+[`torna su`](#lista-elaborazioni)
 
 ## Confermati, ospedalizzati e deceduti per provincia
 
@@ -99,7 +102,7 @@ Le elaborazioni sottostanti sono generate a partire da [questo file CSV](https:/
 </script>
 ```
 
-[`torna su`](#covid-19-visualizzazioni-di-base-per-la-sicilia)
+[`torna su`](#lista-elaborazioni)
 
 ## Variazione casi positivi per provincia
 
@@ -115,7 +118,7 @@ Le elaborazioni sottostanti sono generate a partire da [questo file CSV](https:/
 </script>
 ```
 
-[`torna su`](#covid-19-visualizzazioni-di-base-per-la-sicilia)
+[`torna su`](#lista-elaborazioni)
 
 ## Variazione nel tempo di raddoppio dei casi
 
@@ -144,7 +147,7 @@ Nota bene: purtroppo il dato sul numero dei contagi non è un dato certo, perch�
 </script>
 ```
 
-[`torna su`](#covid-19-visualizzazioni-di-base-per-la-sicilia)
+[`torna su`](#lista-elaborazioni)
 
 # Nota
 
