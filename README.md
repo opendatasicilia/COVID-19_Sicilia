@@ -4,6 +4,10 @@
   <div class="border bg-white position-lg-absolute left-lg-1">.left-lg-1</div>
 </div>
 
+<div class="flash flash-success">
+  Flash message goes here.
+</div>
+
 - [COVID-19: visualizzazioni di base, per la Sicilia](#covid-19-visualizzazioni-di-base-per-la-sicilia)
   - [Riepilogo regionale 1](#riepilogo-regionale-1)
   - [Riepilogo regionale 2](#riepilogo-regionale-2)
