@@ -14,7 +14,7 @@
 Sono generate a partire da [questo file CSV](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsbOOrQCv72t6fH4ktl7VtafxvU1RECTqSBpC3wc91C0hLxFLCFRNZc7os5Pbcmvq-Qh4B3aIO50L8/pub?gid=2065250495&single=true&output=csv) (*encoding* `UTF-8` e `,` come separatore), che ha due fonti: il lavoro di **trasformazione** in **tabella** dei **comunicati stampa** della Regione Siciliana, ed i  [dati già *machine readable*](https://github.com/pcm-dpc/COVID-19) pubblicati dal Dipartimento della Protezione Civile.<br>
 I dati sono fruibili anche tramite [**SPARQL** *endpoint*](https://github.com/opendatasicilia/COVID-19_Sicilia#semantic-web).
 
-Questa pagina è parte del [**Progetto COVID-19_Sicilia**](https://github.com/opendatasicilia/COVID-19_Sicilia)<br>
+<p>Questa pagina è parte del <a href="https://github.com/opendatasicilia/COVID-19_Sicilia"><strong><span class="text-red">Progetto COVID-19_Sicilia</span></strong></a></p>
 
 <hr>
 
