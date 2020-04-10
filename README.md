@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <div class="container-lg clearfix border p-2 bg-blue-light my-">
   <div class="col-md-6 float-left p-2 border0">
     📧 <a href="mailto:info@opendatasicilia.it">Chiedi aiuto!</a>
