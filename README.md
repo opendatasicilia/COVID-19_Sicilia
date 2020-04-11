@@ -22,11 +22,7 @@ I dati sono fruibili anche tramite [**SPARQL** *endpoint*](https://github.com/op
   - [Riepilogo regionale 1](#riepilogo-regionale-1)
   - [Riepilogo regionale 2](#riepilogo-regionale-2)
   - [Riepilogo regionale 3 - confermati totali e giornalieri](#riepilogo-regionale-3---confermati-totali-e-giornalieri)
-  - [Riepilogo provinciale 1](#riepilogo-provinciale-1)
-  - [Confermati, ospedalizzati e deceduti per provincia](#confermati-ospedalizzati-e-deceduti-per-provincia)
-  - [Variazione casi positivi per provincia](#variazione-casi-positivi-per-provincia)
-  - [Variazione nel tempo di raddoppio dei casi](#variazione-nel-tempo-di-raddoppio-dei-casi)
-  - [Nuovi Casi per Provincia](#nuovi-casi-per-provincia)
+  - [Riepilogo regionale 4 - andamento nuovi casi per regione con DPCM](#riepilogo-regionale-4---andamento-nuovi-casi-per-regione-con-dpcm)
 - [Nota](#nota)
 
 
@@ -75,6 +71,19 @@ I dati sono fruibili anche tramite [**SPARQL** *endpoint*](https://github.com/op
 <iframe title="COVID-19 Sicilia, confermati totali e giornalieri" aria-label="Interactive line chart" id="datawrapper-chart-Uwn7H" src="//datawrapper.dwcdn.net/Uwn7H" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 ```
+
+## Riepilogo regionale 4 - andamento nuovi casi per regione con DPCM
+
+<iframe title="COVID-19 Sicilia: andamento nuovi casi per regione" aria-label="Interactive line chart" id="datawrapper-chart-2LFRG" src="//datawrapper.dwcdn.net/2LFRG/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+
+<br>
+
+👉 Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
+
+```html
+<iframe title="COVID-19 Sicilia, confermati totali e giornalieri" aria-label="Interactive line chart" id="datawrapper-chart-Uwn7H" src="//datawrapper.dwcdn.net/Uwn7H" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</sc
 
 ## Riepilogo provinciale 1
 
