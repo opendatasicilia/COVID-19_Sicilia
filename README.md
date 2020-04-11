@@ -26,6 +26,7 @@ I dati sono fruibili anche tramite [**SPARQL** *endpoint*](https://github.com/op
   - [Confermati, ospedalizzati e deceduti per provincia](#confermati-ospedalizzati-e-deceduti-per-provincia)
   - [Variazione casi positivi per provincia](#variazione-casi-positivi-per-provincia)
   - [Variazione nel tempo di raddoppio dei casi](#variazione-nel-tempo-di-raddoppio-dei-casi)
+  - [Nuovi Casi per Provincia](#nuovi-casi-per-provincia)
 - [Nota](#nota)
 
 
@@ -147,6 +148,22 @@ Nota bene: purtroppo il dato sul numero dei contagi non è un dato certo, perch�
 
 ```html
 <iframe title="Variazione nel tempo di raddoppio dei casi" aria-label="Table" id="datawrapper-chart-ln6mZ" src="//datawrapper.dwcdn.net/ln6mZ" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="560"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+```
+
+[`torna su`](#lista-elaborazioni)
+
+## Nuovi Casi per Provincia
+
+<iframe title="Nuovi Casi di Contagio Giornalieri - Province Siciliane" aria-label="Column Chart" id="datawrapper-chart-ueZWX" src="//datawrapper.dwcdn.net/ueZWX/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+
+<br>
+
+👉 Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
+
+```html
+<iframe title="Nuovi Casi di Contagio Giornalieri - Province Siciliane" aria-label="Column Chart" id="datawrapper-chart-ueZWX" src="//datawrapper.dwcdn.net/ueZWX/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 ```
 
