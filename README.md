@@ -10,6 +10,7 @@
       - [Esempio SPARQL](#esempio-sparql)
   - [Lettera aperta](#lettera-aperta)
   - [Ringraziamenti](#ringraziamenti)
+  - [Chi usa il nostro progetto](#chi-usa-il-nostro-progetto)
 
 
 # Perché questo spazio
@@ -143,3 +144,7 @@ La nostra comunità (**[Open Data Sicilia](http://opendatasicilia.it/)**), consa
 ## Ringraziamenti
 
 Questo lavoro non ci sarebbe stato senza il forte stimolo inziale e il tempo dedicato di [Nino Galante](https://twitter.com/picomiles) e [Totò Fiandaca](https://twitter.com/totofiandaca), il supporto e il coordinamento di [Andrea Borruso](https://twitter.com/aborruso); a loro va il nostro ringraziamento.
+
+## Chi usa il nostro progetto
+
+- [Gazzetta del Sud](https://sicilia.gazzettadelsud.it/articoli/cronaca/2020/04/11/in-sicilia-62-nuovi-casi-di-coronavirus-record-di-tamponi-effettuati-2-631-87af6a44-e3f9-462a-99dd-262697b74506/)
