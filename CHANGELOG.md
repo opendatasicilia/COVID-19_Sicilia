@@ -21,3 +21,7 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 ## 2020-04-07
 
 - aggiunto grafico variazione casi per provincia
+
+## 2020-04-11
+
+- aggiunto Riepilogo regionale con andamento nuovi casi per regione con evidenziate date dei principali Decreti del Presidente del Consiglio dei Ministri
