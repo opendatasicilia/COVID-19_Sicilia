@@ -155,4 +155,5 @@ Questo lavoro non ci sarebbe stato senza il forte stimolo inziale e il tempo ded
 
 ## Chi usa il nostro progetto
 
-- [Gazzetta del Sud](https://sicilia.gazzettadelsud.it/articoli/cronaca/2020/04/11/in-sicilia-62-nuovi-casi-di-coronavirus-record-di-tamponi-effettuati-2-631-87af6a44-e3f9-462a-99dd-262697b74506/)
+- [Davide Mancino](https://public.tableau.com/views/AggiornamentiSICILIACOVID-19-OpenDataSicilia/INTRO?:display_count=y&publish=yes&:origin=viz_share_link)
+- [Gazzetta del Sud](https://sicilia.gazzettadelsud.it/articoli/cronaca/2020/04/11/in-sicilia-62-nuovi-casi-di-coronavirus-record-di-tamponi-effettuati-2-631-87af6a44-e3f9-462a-99dd-262697b74506/) (copia su [web archive](https://web.archive.org/web/20200411202557/https://sicilia.gazzettadelsud.it/articoli/cronaca/2020/04/11/in-sicilia-62-nuovi-casi-di-coronavirus-record-di-tamponi-effettuati-2-631-87af6a44-e3f9-462a-99dd-262697b74506/))
