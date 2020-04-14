@@ -42,7 +42,17 @@ E infine sono accessibili anche in questo [**dataset**](https://data.world/opend
 
 ### Se usi questi dati
 
-Cita per favore OpenDataSicilia e questo URL <https://github.com/opendatasicilia/COVID-19_Sicilia>. I dati sono distribuiti con **licenza** [Creative Commons Attribuzione 4.0 Internazionale](http://creativecommons.org/licenses/by/4.0/) .
+Se usi questi dati, indicalo per favore in qesta modalità:
+
+> <b>COVID-19, Sicilia</b> - Fonte: <a href='https://github.com/opendatasicilia/COVID-19_Sicilia' target='_blank'>Repository di Open Data Sicilia</a> con dati pubblicati dalla Regione Siciliana e dal Dipartimento Protezione Civile. Licenza [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.it)
+
+Qui il codice HTML che puoi incollare nel tuo sito/mappa/dashboard;
+
+```html
+<b>COVID-19, Sicilia</b> - Fonte: <a target="_blank" href='https://github.com/opendatasicilia/COVID-19_Sicilia' target='_blank'>Repository di Open Data Sicilia</a>
+con dati pubblicati dalla Regione Siciliana e dal Dipartimento Protezione Civile.
+Licenza <a target="_blank" href="https://creativecommons.org/licenses/by/4.0/deed.it">CC BY 4.0</a>
+```
 
 ## Schema dati
 
