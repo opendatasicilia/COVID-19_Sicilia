@@ -49,6 +49,8 @@ I dati sono fruibili anche tramite [**SPARQL** *endpoint*](https://github.com/op
 
 [`torna su`](#lista-elaborazioni)
 
+<hr>
+
 ## Riepilogo regionale 2
 
 <iframe title="COVID19 Sicilia: andamento regionale" aria-label="Interactive line chart" id="datawrapper-chart-e6xdK" src="//datawrapper.dwcdn.net/e6xdK" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
@@ -64,6 +66,8 @@ I dati sono fruibili anche tramite [**SPARQL** *endpoint*](https://github.com/op
 
 [`torna su`](#lista-elaborazioni)
 
+<hr>
+
 ## Riepilogo regionale 3 - confermati totali e giornalieri
 
 <iframe title="COVID-19 Sicilia, confermati totali e giornalieri" aria-label="Interactive line chart" id="datawrapper-chart-Uwn7H" src="//datawrapper.dwcdn.net/Uwn7H" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
@@ -77,6 +81,10 @@ I dati sono fruibili anche tramite [**SPARQL** *endpoint*](https://github.com/op
 <iframe title="COVID-19 Sicilia, confermati totali e giornalieri" aria-label="Interactive line chart" id="datawrapper-chart-Uwn7H" src="//datawrapper.dwcdn.net/Uwn7H" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 ```
+
+[`torna su`](#lista-elaborazioni)
+
+<hr>
 
 ## Riepilogo regionale 4 - andamento nuovi casi per regione con DPCM
 
@@ -92,6 +100,10 @@ I dati sono fruibili anche tramite [**SPARQL** *endpoint*](https://github.com/op
 </script>
 ```
 
+[`torna su`](#lista-elaborazioni)
+
+<hr>
+
 ## Riepilogo regionale 5 - mappa attualmente positivi e valori storici
 
 <iframe id="map" width="100%" height="650" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://s3.eu-west-1.amazonaws.com/rc.ixmaps.com/ixmaps/ui/html/embed_sync_Leaflet.html?ui=embed&basemap=ll&align=left&legend=1&name=map3&sync=false&project=https://raw.githubusercontent.com/gjrichter/viz/master/COVID-19/projects/COVID-19-ODS/ixmaps_project_ODS_Prov2019_COVID_active_curves.json"></iframe>
@@ -103,6 +115,10 @@ I dati sono fruibili anche tramite [**SPARQL** *endpoint*](https://github.com/op
 ```html
 <iframe id="map" width="100%" height="650" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://s3.eu-west-1.amazonaws.com/rc.ixmaps.com/ixmaps/ui/html/embed_sync_Leaflet.html?ui=embed&basemap=ll&align=left&legend=1&name=map3&sync=false&project=https://raw.githubusercontent.com/gjrichter/viz/master/COVID-19/projects/COVID-19-ODS/ixmaps_project_ODS_Prov2019_COVID_active_curves.json"></iframe>
 ```
+
+[`torna su`](#lista-elaborazioni)
+
+<hr>
 
 ## Riepilogo provinciale 1
 
@@ -120,6 +136,8 @@ I dati sono fruibili anche tramite [**SPARQL** *endpoint*](https://github.com/op
 
 [`torna su`](#lista-elaborazioni)
 
+<hr>
+
 ## Confermati, ospedalizzati e deceduti per provincia
 
 <iframe title="COVID&ndash;19 Sicilia: confermati, ospedalizzati e deceduti per provincia" aria-label="Split Bars" id="datawrapper-chart-KS9iv" src="//datawrapper.dwcdn.net/KS9iv/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="340"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
@@ -136,6 +154,8 @@ I dati sono fruibili anche tramite [**SPARQL** *endpoint*](https://github.com/op
 
 [`torna su`](#lista-elaborazioni)
 
+<hr>
+
 ## Variazione casi positivi per provincia
 
 <iframe title="COVID&ndash;19 Sicilia: variazione positivi per provincia" aria-label="Interactive line chart" id="datawrapper-chart-ifkg2" src="//datawrapper.dwcdn.net/ifkg2" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
@@ -151,6 +171,8 @@ I dati sono fruibili anche tramite [**SPARQL** *endpoint*](https://github.com/op
 ```
 
 [`torna su`](#lista-elaborazioni)
+
+<hr>
 
 ## Variazione nel tempo di raddoppio dei casi
 
@@ -181,6 +203,8 @@ Nota bene: purtroppo il dato sul numero dei contagi non √® un dato certo, perch√
 
 [`torna su`](#lista-elaborazioni)
 
+<hr>
+
 ## Nuovi Casi per Provincia
 
 <iframe title="Nuovi Casi di Contagio Giornalieri - Province Siciliane" aria-label="Column Chart" id="datawrapper-chart-ueZWX" src="//datawrapper.dwcdn.net/ueZWX" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
@@ -196,6 +220,8 @@ Nota bene: purtroppo il dato sul numero dei contagi non √® un dato certo, perch√
 ```
 
 [`torna su`](#lista-elaborazioni)
+
+<hr>
 
 # Nota
 
