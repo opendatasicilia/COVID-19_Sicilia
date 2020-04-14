@@ -98,7 +98,7 @@ I dati sono fruibili anche tramite [**SPARQL** *endpoint*](https://github.com/op
 
 <br>
 
-👉 Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
+👉 Se vuoi **includere questa mappa** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
 
 ```html
 <iframe id="map" width="100%" height="650" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://s3.eu-west-1.amazonaws.com/rc.ixmaps.com/ixmaps/ui/html/embed_sync_Leaflet.html?ui=embed&basemap=ll&align=left&legend=1&name=map3&sync=false&project=https://raw.githubusercontent.com/gjrichter/viz/master/COVID-19/projects/COVID-19-ODS/ixmaps_project_ODS_Prov2019_COVID_active_curves.json"></iframe>
