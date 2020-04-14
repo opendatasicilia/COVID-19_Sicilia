@@ -1,5 +1,7 @@
 ## Esempio vega-lite
 
+<div id="vis"></div>
+
 <script>
       // Assign the specification to a local variable vlSpec.
       var vlSpec = {
