@@ -79,7 +79,7 @@ I dati sono fruibili anche tramite [**SPARQL** *endpoint*](https://github.com/op
 
 ## Riepilogo regionale 4 - andamento nuovi casi per regione con DPCM
 
-<iframe title="COVID-19 Sicilia: andamento nuovi casi per regione" aria-label="Interactive line chart" id="datawrapper-chart-2LFRG" src="//datawrapper.dwcdn.net/2LFRG/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+<iframe title="COVID-19 Sicilia: andamento nuovi casi per regione" aria-label="Interactive line chart" id="datawrapper-chart-2LFRG" src="//datawrapper.dwcdn.net/2LFRG" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
 <br>
@@ -87,7 +87,7 @@ I dati sono fruibili anche tramite [**SPARQL** *endpoint*](https://github.com/op
 👉 Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
 
 ```html
-<iframe title="COVID-19 Sicilia: andamento nuovi casi per regione" aria-label="Interactive line chart" id="datawrapper-chart-2LFRG" src="//datawrapper.dwcdn.net/2LFRG/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+<iframe title="COVID-19 Sicilia: andamento nuovi casi per regione" aria-label="Interactive line chart" id="datawrapper-chart-2LFRG" src="//datawrapper.dwcdn.net/2LFRG" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 ```
 
