@@ -11,7 +11,7 @@
       - [Esempio SPARQL](#esempio-sparql)
   - [Lettera aperta](#lettera-aperta)
   - [Ringraziamenti](#ringraziamenti)
-  - [Chi usa il nostro progetto](#chi-usa-il-nostro-progetto)
+  - [Chi usa o è ispirato dal nostro progetto](#chi-usa-o-è-ispirato-dal-nostro-progetto)
 
 
 # Perché questo spazio
@@ -42,7 +42,17 @@ E infine sono accessibili anche in questo [**dataset**](https://data.world/opend
 
 ### Se usi questi dati
 
-Cita per favore OpenDataSicilia e questo URL <https://github.com/opendatasicilia/COVID-19_Sicilia>. I dati sono distribuiti con **licenza** [Creative Commons Attribuzione 4.0 Internazionale](http://creativecommons.org/licenses/by/4.0/) .
+Se usi questi dati, indicalo per favore in qesta modalità:
+
+> <b>COVID-19, Sicilia</b> - Fonte: <a href='https://github.com/opendatasicilia/COVID-19_Sicilia' target='_blank'>Repository di Open Data Sicilia</a> con dati pubblicati dalla Regione Siciliana e dal Dipartimento Protezione Civile. Licenza [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.it)
+
+Qui il codice HTML che puoi incollare nel tuo sito/mappa/dashboard;
+
+```html
+<b>COVID-19, Sicilia</b> - Fonte: <a target="_blank" href='https://github.com/opendatasicilia/COVID-19_Sicilia' target='_blank'>Repository di Open Data Sicilia</a>
+con dati pubblicati dalla Regione Siciliana e dal Dipartimento Protezione Civile.
+Licenza <a target="_blank" href="https://creativecommons.org/licenses/by/4.0/deed.it">CC BY 4.0</a>
+```
 
 ## Schema dati
 
@@ -153,6 +163,8 @@ La nostra comunità (**[Open Data Sicilia](http://opendatasicilia.it/)**), consa
 
 Questo lavoro non ci sarebbe stato senza il forte stimolo inziale e il tempo dedicato di [Nino Galante](https://twitter.com/picomiles) e [Totò Fiandaca](https://twitter.com/totofiandaca), il supporto e il coordinamento di [Andrea Borruso](https://twitter.com/aborruso); a loro va il nostro ringraziamento.
 
-## Chi usa il nostro progetto
+## Chi usa o è ispirato dal nostro progetto
 
-- [Gazzetta del Sud](https://sicilia.gazzettadelsud.it/articoli/cronaca/2020/04/11/in-sicilia-62-nuovi-casi-di-coronavirus-record-di-tamponi-effettuati-2-631-87af6a44-e3f9-462a-99dd-262697b74506/)
+- [Davide Mancino](https://public.tableau.com/views/AggiornamentiSICILIACOVID-19-OpenDataSicilia/INTRO?:display_count=y&publish=yes&:origin=viz_share_link)
+- [Gazzetta del Sud](https://sicilia.gazzettadelsud.it/articoli/cronaca/2020/04/11/in-sicilia-62-nuovi-casi-di-coronavirus-record-di-tamponi-effettuati-2-631-87af6a44-e3f9-462a-99dd-262697b74506/) (copia su [web archive](https://web.archive.org/web/20200411202557/https://sicilia.gazzettadelsud.it/articoli/cronaca/2020/04/11/in-sicilia-62-nuovi-casi-di-coronavirus-record-di-tamponi-effettuati-2-631-87af6a44-e3f9-462a-99dd-262697b74506/))
+- [Guenter Richter](https://gjrichter.github.io/viz/COVID-19/gallery/ODS/)
