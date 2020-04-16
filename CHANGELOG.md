@@ -27,6 +27,12 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 - aggiunto Riepilogo regionale con andamento nuovi casi per regione con evidenziate date dei principali Decreti del Presidente del Consiglio dei Ministri
 - aggiunta la sezione _Chi usa il nostro progetto_ nel README
 
+## 2020-04-11
+
+- aggiunto Riepilogo regionale con andamento nuovi casi per regione con evidenziate date dei principali Decreti del Presidente del Consiglio dei Ministri
+- aggiunta la sezione _Chi usa il nostro progetto_ nel README;
+- aggiunto grafico Nuovi Casi per Provincia
+
 ## 2020-04-14
 
 - aggiunta mappa di Guenter Richter
