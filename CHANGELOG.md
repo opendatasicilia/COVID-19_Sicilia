@@ -26,3 +26,7 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - aggiunto Riepilogo regionale con andamento nuovi casi per regione con evidenziate date dei principali Decreti del Presidente del Consiglio dei Ministri
 - aggiunta la sezione _Chi usa il nostro progetto_ nel README
+
+## 2020-04-16
+
+- aggiunta cartella `stampe` (/risorse/stampe) che contiene le stampe in PDF di elaborati realizzati con QGIS: sono due file `atlas_province_YYYYMMDD.pdf` è la stampa di un atlante che rappresenta, provincia per provincia, i dati COVID-19; `complessivo_YYYYMMDD.pdf` è la stampa di un layout che rappresenta i dati complessivi regionali.
