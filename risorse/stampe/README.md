@@ -9,3 +9,11 @@ Questa cartella contiene due PDF risultato dell'elaborazione contenute in un [pr
 - PDF complessivo regione/province
 
 ![](/risorse/stampe/img/img_02.png)
+
+## File presenti
+
+data| province | complessivo
+----|:----------:|:-----------:
+15-04-2020| sì|sì
+16-04-2020| sì|sì
+17-04-2020| sì|sì
