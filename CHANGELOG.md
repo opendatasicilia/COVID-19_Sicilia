@@ -60,3 +60,8 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - aggiunti PDF `atlas_province_20200420/21.pdf` e `complessivo_20200420/21.pdf`
 - aggiornato README alla cartella `stampe`
+
+## 2020-04-23
+
+- aggiunti PDF `atlas_province_20200422/231.pdf` e `complessivo_20200422/23.pdf`
+- aggiornato README alla cartella `stampe`
