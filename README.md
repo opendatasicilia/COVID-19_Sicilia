@@ -34,7 +34,7 @@ isolamento_domiciliare = totale_positivi - totale_ospedalizzati
 
 ## Dati
 
-I dati al momento sono 👉 [**disponibili QUI**](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsbOOrQCv72t6fH4ktl7VtafxvU1RECTqSBpC3wc91C0hLxFLCFRNZc7os5Pbcmvq-Qh4B3aIO50L8/pub?gid=2065250495&single=true&output=csv) in formato **`CSV`** (*encoding* `UTF-8` e `,` come separatore), con un file di insieme che contiene tutti i dati.
+I dati al momento sono 👉 [**disponibili QUI**](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsbOOrQCv72t6fH4ktl7VtafxvU1RECTqSBpC3wc91C0hLxFLCFRNZc7os5Pbcmvq-Qh4B3aIO50L8/pub?gid=2065250495&single=true&output=csv) in formato **`CSV`** (*encoding* `UTF-8` e `,` come separatore), con un file di insieme che contiene tutti i dati. E [qui](https://bertha.ig.ft.com/republish/publish/gss/1wc9t8X7wRqmWfGCBwREi0b9DpbgpCPpmHpqoPTVyPXI/Dati) in JSON.
 
 Si possono visualizzare anche tramite questo [**foglio elettronico**](https://docs.google.com/spreadsheets/d/1wc9t8X7wRqmWfGCBwREi0b9DpbgpCPpmHpqoPTVyPXI/edit?usp=sharing), che per noi vale soltanto come risorsa di lavoro. I dati "veri" sono quelli del suddetto CSV.
 
