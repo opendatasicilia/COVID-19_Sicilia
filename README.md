@@ -12,7 +12,7 @@
 [**OpenDataSicilia**](https://groups.google.com/forum/#!categories/opendatasicilia) ha raccolto in questa pagina alcune **visualizzazioni** di base sulla **COVID-19** per la Sicilia, in modo che possano essere usate in qualsiasi altro sito, con un semplice <kbd>CTRL+C</kbd>, <kbd>CTRL+V</kbd> (un copia e incolla 😊).
 
 Sono generate a partire da [questo file CSV](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsbOOrQCv72t6fH4ktl7VtafxvU1RECTqSBpC3wc91C0hLxFLCFRNZc7os5Pbcmvq-Qh4B3aIO50L8/pub?gid=2065250495&single=true&output=csv) (*encoding* `UTF-8` e `,` come separatore), che ha due fonti: il lavoro di **trasformazione** in **tabella** dei **comunicati stampa** della Regione Siciliana, ed i  [dati già *machine readable*](https://github.com/pcm-dpc/COVID-19) pubblicati dal Dipartimento della Protezione Civile.<br>
-I dati sono fruibili anche tramite [**SPARQL** *endpoint*](https://github.com/opendatasicilia/COVID-19_Sicilia#semantic-web).
+I dati sono fruibili anche tramite [**SPARQL** *endpoint*](https://github.com/opendatasicilia/COVID-19_Sicilia#semantic-web) e in [JSON](https://bertha.ig.ft.com/republish/publish/gss/1wc9t8X7wRqmWfGCBwREi0b9DpbgpCPpmHpqoPTVyPXI/Dati).
 
 <p>Questa pagina è parte del <a href="https://github.com/opendatasicilia/COVID-19_Sicilia"><strong><span class="text-red">Progetto COVID-19_Sicilia</span></strong></a>.</p>
 
