@@ -80,3 +80,7 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - aggiunti PDF `atlas_province_202000501/02/03/04/05/06/07/08.pdf` e `complessivo_20200501/02/03/04/05/06/07/08.pdf`
 - aggiornato README alla cartella `stampe`
+
+## 2020-05-12
+
+- aggiunto URL dati in formato JSON
