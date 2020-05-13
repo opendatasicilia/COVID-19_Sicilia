@@ -9,6 +9,7 @@
       - [Dimensioni](#dimensioni)
       - [Misurazioni](#misurazioni)
       - [Esempio SPARQL](#esempio-sparql)
+  - [Applicazione Android](#applicazione-android)
   - [Lettera aperta](#lettera-aperta)
   - [Ringraziamenti](#ringraziamenti)
   - [Chi usa o è ispirato dal nostro progetto](#chi-usa-o-è-ispirato-dal-nostro-progetto)
@@ -160,6 +161,8 @@ L'applicazione raccoglie i dati dal file JSON di Open Data Sicilia.<br>
 Di seguito alcuni screeshots.<br>
 <img src="https://i.imgur.com/KrMj0rr.jpg" alt="screen-1" width="200"/>
 <img src="https://i.imgur.com/ETuA1bO.jpg" alt="screen-1" width="200"/>
+
+[**LINK DOWNLOAD**](https://github.com/opendatasicilia/COVID-19_Sicilia/raw/master/risorse/applicazione_android/app.apk)
 
 ## Lettera aperta
 
