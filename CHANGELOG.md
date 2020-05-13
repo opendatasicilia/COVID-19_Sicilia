@@ -84,3 +84,7 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 ## 2020-05-12
 
 - aggiunto URL dati in formato JSON
+
+## 2020-05-13
+
+- aggiuna app android in risorse
