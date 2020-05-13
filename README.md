@@ -153,6 +153,13 @@ WHERE
 }
 ```
 
+## Applicazione Android
+
+E' stata creata un'applicazione android per consentire la visualizzazione dei dati anche da cellulare in modo semplice e intuitivo.
+L'applicazione raccoglie i dati dal file JSON di Open Data Sicilia.<br>
+Di seguito alcuni screeshots.<br>
+<img src="https://i.imgur.com/KrMj0rr.jpg" alt="screen-1" width="200"/>
+<img src="https://i.imgur.com/ETuA1bO.jpg" alt="screen-1" width="200"/>
 
 ## Lettera aperta
 
