@@ -88,3 +88,8 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 ## 2020-05-13
 
 - aggiuna app android in risorse
+
+## 2020-05-17
+
+- aggiunti PDF `atlas_province_202000509/10/11/12/13/14/15/16/17.pdf` e `complessivo_20200509/10/11/12/13/14/15/16/17.pdf`
+- aggiornato README alla cartella `stampe`
