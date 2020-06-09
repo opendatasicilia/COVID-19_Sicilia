@@ -9,7 +9,7 @@
 
 ---
 
-**NOTA BENE**: Da qualche giorno (oggi 9 giugno 2020) la RegioneSiciliana non pubblica più giornalmente i propri bollettini #COVID19. Siamo pertanto costretti, in mancanza di altre fonti, ad adeguare la periodicità di aggiornamento del dataset dove da oltre 3 mesi raccogliamo i dati relativi alle **province siciliane**.
+**NOTA BENE**: Da qualche giorno (oggi 9 giugno 2020) la RegioneSiciliana non pubblica più giornalmente i propri bollettini #COVID19. Siamo pertanto costretti, in mancanza di altre fonti, ad adeguare la periodicità di aggiornamento del nostro dataset, in cui da circa 3 mesi raccogliamo i dati relativi alle **province siciliane**.
 
 ---
 
