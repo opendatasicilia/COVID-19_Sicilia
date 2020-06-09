@@ -7,6 +7,12 @@
   </div>
 </div>
 
+---
+
+**NOTA BENE**: Da qualche giorno (oggi 9 giugno 2020) la RegioneSiciliana non pubblica più giornalmente i propri bollettini #COVID19. Siamo pertanto costretti, in mancanza di altre fonti, ad adeguare la periodicità di aggiornamento del dataset dove da oltre 3 mesi raccogliamo i dati relativi alle **province siciliane**.
+
+---
+
 <h1>COVID-19: visualizzazioni di base, per la Sicilia</h1>
 
 [**OpenDataSicilia**](https://groups.google.com/forum/#!categories/opendatasicilia) ha raccolto in questa pagina alcune **visualizzazioni** di base sulla **COVID-19** per la Sicilia, in modo che possano essere usate in qualsiasi altro sito, con un semplice <kbd>CTRL+C</kbd>, <kbd>CTRL+V</kbd> (un copia e incolla 😊).
