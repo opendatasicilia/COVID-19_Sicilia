@@ -29,7 +29,6 @@ I dati sono fruibili anche tramite [**SPARQL** *endpoint*](https://github.com/op
   - [Riepilogo regionale 2](#riepilogo-regionale-2)
   - [Riepilogo regionale 3 - confermati totali e giornalieri](#riepilogo-regionale-3---confermati-totali-e-giornalieri)
   - [Riepilogo regionale 4 - andamento nuovi casi per regione con DPCM](#riepilogo-regionale-4---andamento-nuovi-casi-per-regione-con-dpcm)
-  - [Riepilogo regionale 5 - mappa attualmente positivi e valori storici](#riepilogo-regionale-5---mappa-attualmente-positivi-e-valori-storici)
   - [Riepilogo provinciale 1](#riepilogo-provinciale-1)
   - [Confermati, ospedalizzati e deceduti per provincia](#confermati-ospedalizzati-e-deceduti-per-provincia)
   - [Variazione casi positivi per provincia](#variazione-casi-positivi-per-provincia)
@@ -103,22 +102,6 @@ I dati sono fruibili anche tramite [**SPARQL** *endpoint*](https://github.com/op
 ```html
 <iframe title="COVID-19 Sicilia: andamento nuovi casi per regione" aria-label="Interactive line chart" id="datawrapper-chart-2LFRG" src="//datawrapper.dwcdn.net/2LFRG" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
-```
-
-[`torna su`](#lista-elaborazioni)
-
-<hr>
-
-## Riepilogo regionale 5 - mappa attualmente positivi e valori storici
-
-<iframe id="map" width="100%" height="650" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://s3.eu-west-1.amazonaws.com/rc.ixmaps.com/ixmaps/ui/html/embed_sync_Leaflet.html?ui=embed&basemap=ll&align=left&legend=1&name=map3&sync=false&project=https://raw.githubusercontent.com/gjrichter/viz/master/COVID-19/projects/COVID-19-ODS/ixmaps_project_ODS_Prov2019_COVID_active_curves.json"></iframe>
-
-<br>
-
-👉 Se vuoi **includere questa mappa** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
-
-```html
-<iframe id="map" width="100%" height="650" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://s3.eu-west-1.amazonaws.com/rc.ixmaps.com/ixmaps/ui/html/embed_sync_Leaflet.html?ui=embed&basemap=ll&align=left&legend=1&name=map3&sync=false&project=https://raw.githubusercontent.com/gjrichter/viz/master/COVID-19/projects/COVID-19-ODS/ixmaps_project_ODS_Prov2019_COVID_active_curves.json"></iframe>
 ```
 
 [`torna su`](#lista-elaborazioni)
